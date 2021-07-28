@@ -73,6 +73,14 @@ The goal here is to identify the behavior of customers through Exploratory Data 
 1. Distribution of these two groups is similar
 2. Surprisingly some non-churned customers have lower balance than churned customers
 
+# CREDIT SCORE
+![](samples/8.png)
+
+1. Similar distribution
+2. Some customers with extremely low credit score (on the left tail) as well as with high credit score also churned
+3. Indicates that really low and high quality customer can easily churn than the average quality customer
+
+
 
 
 
