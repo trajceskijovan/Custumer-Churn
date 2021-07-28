@@ -109,8 +109,16 @@ The goal here is to identify the behavior of customers through Exploratory Data 
 6. To fix this we will do both undersampling and oversampling on this imbalanced data via the method = “both“
 7. In this case, the minority class is oversampled with replacement and majority class is undersampled without replacement
 
-# Build Predictive Models:
+# Build and Train Predictive Models:
+1. Logistic Model
+2. Decison Tree
+3. Random Forest
+4. XGBoost
 
+# Compare model perfomance via ROC:
+![](samples/12.png)
+
+![](samples/13.png)
 
 
 
