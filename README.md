@@ -18,20 +18,12 @@ The goal here is to identify the behavior of customers through Exploratory Data 
 
 # EDA
 
-    - CreditScore: the range of credit score is from 350 to 850
-
-Geography: the regional bank has customers from three countries: France, Germany and Spain
-
-Age: the range of customer’s age is from 18 to 92
-
-Tenure: years that the customer has stayed with the bank
-
-Balance: the amount of money available for withdrawal
-
-NumOfProducts: number of products that the customers use in the bank
-
-IsActiveMember: 1 indicates is active
-
-EstimatedSalary: customer’s self-reported annual salary
-
-Exited: whether the customer has churned (closed the bank account), 1 indicates churn
+    - CreditScore: from 350 to 850
+    - Geography:France, Germany and Spain
+    - Age: from 18 to 92
+    - Tenure: how long customer has stayed with the bank
+    - Balance: the amount of money available for withdrawal
+    - NumOfProducts: number of products customers use in the bank
+    - IsActiveMember: 0,1 -> Inactive, Active
+    - EstimatedSalary: customer’s annual salary
+    - Exited: whether the customer has churned (closed the bank account) where 0,1 -> Stay, Churn
