@@ -57,6 +57,14 @@ The goal here is to identify the behavior of customers through Exploratory Data 
 5. Most customers use one or two kind of products, with a very few use three or four products
 6. Almost equal number of customers in different tenure groups, except 0 and 10.
 
+# Variables Deep Dive:
 
+# AGE
+![](samples/6.png)
+
+1. Non-churned customers have a right-skewed distribution (tend to be young)
+2. Outliers above 60 years old - perhaps our stable customers
+3. Churned customers are mostly around 40 to 50. They might need to switch to other banking service for retirement purpose or whole family
+4. We cab see very clear difference between these two groups
 
 
