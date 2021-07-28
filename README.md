@@ -100,7 +100,7 @@ The goal here is to identify the behavior of customers through Exploratory Data 
 # Feature selection by using chi-square test:
 ![](samples/11.png)
 
-# Preprocessing Data & fixing Class Balance for Train data set:
+# Preprocessing & fixing Class Balance for Train data set:
 1. Split the data using a stratified sampling approach (70/30 ratio)
 2. Inspect target distibution
 3. Our dataset is not balanced as we have 80% for Stay and 20% for Leave/Churn
