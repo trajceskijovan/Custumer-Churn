@@ -120,8 +120,13 @@ The goal here is to identify the behavior of customers through Exploratory Data 
 
 ![](samples/13.png)
 
+# Feature Importance:
+![](samples/14.png)
 
-
+1. Feature Importanceis very similar based on the two approaches
+2. Age has the highest impact on customer churn. The bank can come up with some preferential policies to engage with these older customers
+3. The number of products used by the customer has an impact on customer churn. As we have discussed in the exploratory analysis, people who use more than two products are very likely to churn. So the bank should start examing why this is happening. Maybe the bank’s reward program has limitation, or perhaps the loan interest is not very attractive?
+4. Customers from Germany are more likely to churn compared to customers in France and Spain. The marketing team should focus on retaining German customers
 
 
 
