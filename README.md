@@ -18,7 +18,7 @@ The goal here is to identify the behavior of customers through Exploratory Data 
 
 # EDA
 
-  - CreditScore: the range of credit score is from 350 to 850
+    - CreditScore: the range of credit score is from 350 to 850
 
 Geography: the regional bank has customers from three countries: France, Germany and Spain
 
