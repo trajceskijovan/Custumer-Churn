@@ -97,3 +97,12 @@ The goal here is to identify the behavior of customers through Exploratory Data 
 5. Customers in different tenure groups don’t have an apparent tendency to churn or stay
 6. Customers who use 3 or 4 product are extremely likely to churn
 
+# Feature selection by using chi-square test:
+![](samples/11.png)
+
+
+
+
+
+
+
