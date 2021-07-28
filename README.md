@@ -29,3 +29,4 @@ The goal here is to identify the behavior of customers through Exploratory Data 
     - Exited: whether the customer has churned (closed the bank account) where 0,1 -> Stay, Churn
 
 Target (Stay, Churn/Leave):
+![](samples/1.png)
