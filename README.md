@@ -100,14 +100,17 @@ The goal here is to identify the behavior of customers through Exploratory Data 
 # Feature selection by using chi-square test:
 ![](samples/11.png)
 
-# Preprocessing
+# Preprocessing Data & fixing Class Balance for Train data set:
 1. Split the data using a stratified sampling approach (70/30 ratio)
-2. Inspect target distibution. 
+2. Inspect target distibution
 3. Our dataset is not balanced as we have 80% for Stay and 20% for Leave/Churn
 4. We will perform oversampling & undersampling to balance the data set via "ovun.sample" function
 5. Now the data set is balanced, however, you see that we’ve lost significant information from the sample
 6. To fix this we will do both undersampling and oversampling on this imbalanced data via the method = “both“
-7. In this case, the minority class is oversampled with replacement and majority class is undersampled without replacement.
+7. In this case, the minority class is oversampled with replacement and majority class is undersampled without replacement
+
+# Build Predictive Models:
+
 
 
 
