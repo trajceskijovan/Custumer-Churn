@@ -80,7 +80,11 @@ The goal here is to identify the behavior of customers through Exploratory Data 
 2. Some customers with extremely low credit score (on the left tail) as well as with high credit score also churned
 3. Indicates that really low and high quality customer can easily churn than the average quality customer
 
+# CUSTOMER ESTIMATED SALARY
+![](samples/9.png)
 
+1. Both groups have a very similar distribution
+2. Esimated Salary might not be a very important infomation to decide if a customer will churn or not
 
 
 
