@@ -31,10 +31,15 @@ The goal here is to identify the behavior of customers through Exploratory Data 
 # No NA`s:
 ![](samples/1.png)
 
-# Target (Stay (0), Churn/Leave(1)):
+# Target [ Stay (0), Churn/Leave(1) ]:
 ![](samples/2.png)
 
+# Distribution - Continuous Variables:
+![](samples/3.png)
 
+1. Age is a bit right-skewed
+2. Balance is fairly normal distributed
+3. Most credit scores are above 600, it is possible that high quality customers will churn
 
 
 
