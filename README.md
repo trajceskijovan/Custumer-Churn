@@ -47,9 +47,15 @@ The goal here is to identify the behavior of customers through Exploratory Data 
 1. No high correlation between the continuous variables (i.e. no multicollinearity)
 2. We will keep all of the continuous variables
 
+# Distribution - Categorical Variables:
+![](samples/5.png)
 
-
-
+1. More male customers than females
+2. Customers are mostly from France
+3. Most customers have the bank’s credit card
+4. Almost equal number of active and non-active members, not a very good sign
+5. Most customers use one or two kind of products, with a very few use three or four products
+6. Almost equal number of customers in different tenure groups, except 0 and 10.
 
 
 
