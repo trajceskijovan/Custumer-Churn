@@ -27,3 +27,5 @@ The goal here is to identify the behavior of customers through Exploratory Data 
     - IsActiveMember: 0,1 -> Inactive, Active
     - EstimatedSalary: customer’s annual salary
     - Exited: whether the customer has churned (closed the bank account) where 0,1 -> Stay, Churn
+
+Target (Stay, Churn/Leave):
