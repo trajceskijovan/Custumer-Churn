@@ -87,4 +87,13 @@ The goal here is to identify the behavior of customers through Exploratory Data 
 2. Esimated Salary might not be a very important infomation to decide if a customer will churn or not
 
 
+# CATEGORICAL VARIABLES
+![](samples/10.png)
+
+1. Female are more likely to churn than male
+2. Customers in Germany are more likely to churn than customers in France and Spain
+3. In-active customers are more likely to churn than active
+4. HasCrCard may not be a useful feature as we cannot really tell if a customer has credit card will churn or not
+5. Customers in different tenure groups don’t have an apparent tendency to churn or stay
+6. Customers who use 3 or 4 product are extremely likely to churn
 
