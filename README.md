@@ -17,7 +17,8 @@ This analysis focuses on the behavior of bank customers who are more likely to l
 The goal here is to identify the behavior of customers through Exploratory Data Analysis and later on use predictive analytics techniques to determine the customers who are most likely to churn (leave).
 
 # EDA
-* CreditScore: the range of credit score is from 350 to 850
+
+- CreditScore: the range of credit score is from 350 to 850
 
 Geography: the regional bank has customers from three countries: France, Germany and Spain
 
