@@ -67,4 +67,12 @@ The goal here is to identify the behavior of customers through Exploratory Data 
 3. Churned customers are mostly around 40 to 50. They might need to switch to other banking service for retirement purpose or whole family
 4. We cab see very clear difference between these two groups
 
+# BALANCE
+![](samples/7.png)
+
+1. Distribution of these two groups is similar
+2. Surprisingly some non-churned customers have lower balance than churned customers
+
+
+
 
