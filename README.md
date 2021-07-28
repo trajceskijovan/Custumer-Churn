@@ -28,13 +28,10 @@ The goal here is to identify the behavior of customers through Exploratory Data 
     - EstimatedSalary: customer’s annual salary
     - Exited: whether the customer has churned (closed the bank account) where 0,1 -> Stay, Churn
 
-No NA`s:
-
+# No NA`s:
 ![](samples/1.png)
 
-
-Target (Stay, Churn/Leave):
-
+# Target (Stay (0), Churn/Leave(1)):
 ![](samples/2.png)
 
 
