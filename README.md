@@ -41,9 +41,11 @@ The goal here is to identify the behavior of customers through Exploratory Data 
 2. Balance is fairly normal distributed
 3. Most credit scores are above 600, it is possible that high quality customers will churn
 
+# Correlation Matrix
+![](samples/4.png)
 
-
-
+1. No high correlation between the continuous variables (i.e. no multicollinearity)
+2. We will keep all of the continuous variables
 
 
 
