@@ -538,3 +538,7 @@ c1<-vip::vip(rf.mod, aesthetics = list(colour="darkgrey", fill="grey"))+ ggtitle
 c2<-vip::vip(xgb.mod, aesthetics = list(colour="black", fill="black"))+ ggtitle("XGBoost")
 grid.arrange(c1, c2, ncol = 2)
 
+# This code is free to use for academic purposes only, provided that a proper reference is cited. 
+# This code comes without technical support of any kind. 
+# Under no circumstances will the author be held responsible for any use of this code in any way.
+       
